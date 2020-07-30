@@ -1,0 +1,165 @@
+body {
+   background-color: black !important;
+ 
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+background-color: #ffffff;
+padding: 7px 20px;
+background: transparent !important;
+border: 1px solid white;
+border-radius: 30px;
+justify-content: flex center;
+height: 130px;
+
+}
+.navbar li{
+color: rgb(255, 255, 255) !important;
+text-align: center;
+font-weight: bold;
+text-decoration: none;
+text-transform: uppercase;
+padding: 1px 20px;
+margin-left: 12px;
+background-color: rgb(0, 0, 0) !important;
+font-size: 20px;
+display: inline-block;
+line-height: 80px;
+margin: 0 5px;
+margin-left: 100px;
+
+
+
+}
+
+.navbar a:hover{
+    background-color: blue !important;
+    color: white !important;
+}
+
+
+.header{
+   height: 10%;
+   
+}
+.header-btn{
+    margin-left: 100px;
+    float: right;
+    font-weight: bold;
+    background: #107af1;
+    border-radius: 30px;
+    text-decoration: white;
+    padding: 7px 20px;
+    color:white;
+    margin-top: 12px;
+    background: transparent !important;
+    border: 1px solid white;
+    
+}
+.movie-details{
+    margin: 3% 0
+    
+}
+h3{
+    margin-left: 10px;
+    color: white;
+}
+.casting img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+p{ 
+    color: white;
+}
+img{
+    height:100px;
+    width: 150px;
+    margin-top: 12px;
+   
+}
+
+
+
+ a{
+     text-decoration: none !important;
+     border-radius: 30px;
+     padding: 1px 10px;
+     color: #ffffff !important;
+     background: #107afd !important;
+     display: inline-block !important;
+     font-weight: 400;
+     margin-right: 10px;
+     margin-top: 10px;
+    
+     border: 1px solid white;
+ 
+}
+ a:hover{
+    background-color: red !important;
+    color: white !important;
+}
+
+    
+.series h3{
+
+    color: #ffffff;
+    margin-top: 50px;
+}
+.series img{
+    width: 100%;
+  
+    cursor: pointer;
+}
+
+.row img{
+   width: 150%;
+   height: 90%;
+    cursor: pointer;
+    margin-left: 50px;
+    
+    
+}
+.search-icon{
+ height: 40px !important;
+ width: 240px !important;
+ display: flex!important;
+ background: #f2f2f2 !important;
+ border-radius: 5px !important;
+ float: right !important;
+ 
+}
+.search-icon input{
+    height: 100% !important;
+    width: 200px !important;
+    border: none !important;
+    outline: none !important;
+    border-radius: 30px !important;
+    padding: 0 10px !important;
+    color: #000000;
+ 
+}
+
+.row p{
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.row a{
+    margin-left: 50px;
+    margin-top: 0px !important;
+    
+}
+
+.search-icon input{
+    float: right;
+   
+}
+.navbar li a{
+    background: transparent !important;
+}
